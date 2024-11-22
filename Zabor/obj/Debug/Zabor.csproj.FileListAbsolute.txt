@@ -1,0 +1,10 @@
+C:\Users\Professional\Desktop\v4\Zabor\bin\Debug\Zabor.exe.config
+C:\Users\Professional\Desktop\v4\Zabor\bin\Debug\Zabor.exe
+C:\Users\Professional\Desktop\v4\Zabor\bin\Debug\Zabor.pdb
+C:\Users\Professional\Desktop\v4\Zabor\bin\Debug\ArtLib.dll
+C:\Users\Professional\Desktop\v4\Zabor\bin\Debug\ArtLib.pdb
+C:\Users\Professional\Desktop\v4\Zabor\obj\Debug\Zabor.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\v4\Zabor\obj\Debug\Zabor.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\v4\Zabor\obj\Debug\Zabor.csproj.Up2Date
+C:\Users\Professional\Desktop\v4\Zabor\obj\Debug\Zabor.exe
+C:\Users\Professional\Desktop\v4\Zabor\obj\Debug\Zabor.pdb

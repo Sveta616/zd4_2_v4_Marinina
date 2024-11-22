@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Professional\\Desktop\\v4\\ArtLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB33DE7-C982-44B9-9D47-F2FAD31078DA}|..\\ZaborTests\\ZaborTests.csproj|c:\\users\\professional\\desktop\\v4\\zabortests\\testfortime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4415E4E-880B-4DCC-8E53-C8C2D87AFF82}|ArtLib\\ArtLib.csproj|C:\\Users\\Professional\\Desktop\\v4\\ArtLib\\artlib\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4415E4E-880B-4DCC-8E53-C8C2D87AFF82}|ArtLib\\ArtLib.csproj|solutionrelative:artlib\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4724E79B-85E9-4C7E-9D6B-D26DEB9C3CB2}|..\\Zabor\\Zabor.csproj|c:\\users\\professional\\desktop\\v4\\zabor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestForTime.cs",
+              "DocumentMoniker": "C:\\Users\\Professional\\Desktop\\v4\\ZaborTests\\TestForTime.cs",
+              "RelativeDocumentMoniker": "..\\ZaborTests\\TestForTime.cs",
+              "ToolTip": "C:\\Users\\Professional\\Desktop\\v4\\ZaborTests\\TestForTime.cs",
+              "RelativeToolTip": "..\\ZaborTests\\TestForTime.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAywJEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:34:24.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Professional\\Desktop\\v4\\Zabor\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Zabor\\Program.cs",
+              "ToolTip": "C:\\Users\\Professional\\Desktop\\v4\\Zabor\\Program.cs",
+              "RelativeToolTip": "..\\Zabor\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:21:44.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\Professional\\Desktop\\v4\\ArtLib\\ArtLib\\Calculate.cs",
+              "RelativeDocumentMoniker": "ArtLib\\Calculate.cs",
+              "ToolTip": "C:\\Users\\Professional\\Desktop\\v4\\ArtLib\\ArtLib\\Calculate.cs",
+              "RelativeToolTip": "ArtLib\\Calculate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:20:42.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

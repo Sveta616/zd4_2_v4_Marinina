@@ -1,0 +1,6 @@
+C:\Users\Professional\Desktop\v4\ArtLib\ArtLib\bin\Debug\ArtLib.dll
+C:\Users\Professional\Desktop\v4\ArtLib\ArtLib\bin\Debug\ArtLib.pdb
+C:\Users\Professional\Desktop\v4\ArtLib\ArtLib\obj\Debug\ArtLib.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\v4\ArtLib\ArtLib\obj\Debug\ArtLib.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\v4\ArtLib\ArtLib\obj\Debug\ArtLib.dll
+C:\Users\Professional\Desktop\v4\ArtLib\ArtLib\obj\Debug\ArtLib.pdb
